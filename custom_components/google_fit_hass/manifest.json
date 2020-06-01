@@ -1,7 +1,7 @@
 {
     "domain": "google_fit_hass",
-    "name": "Google fit hass",
-    "documentation": "https://github.com/hemantkamalakar/google_fit_hass",
+    "name": "VAC Google Fit",
+    "documentation": "https://github.com/VACIndustries/google_fit_hass",
     "dependencies": [],
     "codeowners": ["@hemantkamalakar"],
     "requirements": [
